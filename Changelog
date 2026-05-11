@@ -1002,7 +1002,7 @@ version 2.4:
 - H.261 RTP payload format (RFC 4587) depacketizer and experimental packetizer
 - HEVC/H.265 RTP payload format (draft v6) depacketizer
 - added codecview filter to visualize information exported by some codecs
-- Matroska 3D support thorugh side data
+- Matroska 3D support through side data
 - HTML generation using texi2html is deprecated in favor of makeinfo/texi2any
 - silenceremove filter
 
@@ -1674,7 +1674,7 @@ version 0.8:
 - select filter added
 - sdl output device added
 - libmpcodecs video filter support (3 times as many filters than before)
-- mpeg2 aspect ratio dection fixed
+- mpeg2 aspect ratio detection fixed
 - libxvid aspect pickiness fixed
 - Frame multithreaded decoding
 - E-AC-3 audio encoder
@@ -1996,7 +1996,7 @@ version 0.4.9-pre1:
 - multithreaded/SMP encoding for MPEG-1/MPEG-2/MPEG-4/H.263
 - multithreaded/SMP decoding for MPEG-2
 - FLAC decoder
-- Metrowerks CodeWarrior suppport
+- Metrowerks CodeWarrior support
 - H.263+ custom pcf support
 - nicer output for 'ffmpeg -formats'
 - Matroska demuxer
