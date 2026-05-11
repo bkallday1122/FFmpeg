@@ -177,7 +177,7 @@ edge padding bug (autodetected per fourcc/version)
 @item ms
 Workaround various bugs in microsoft broken decoders.
 @item trunc
-trancated frames
+truncated frames
 @end table
 
 @item strict @var{integer} (@emph{decoding/encoding,audio,video})
